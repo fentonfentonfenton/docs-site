@@ -64,7 +64,7 @@ and node RPC interfaces.
 **Developers** can also:
 
 - [Issue](./smart-chain/developer/issue-BEP20.md) new tokens to digitalize assets
-- [Migrate](https://github.com/bnb-chain/bsc-develop-ecosystem) existing DApps
+- [Migrate](https://github.com/bnb-chain/bsc-ecosystem) existing DApps
 - Run a [full node](./smart-chain/developer/fullnode.md) to listen to and broadcast live updates on transactions, blocks, and consensus activities
 - Become [a validator of BSC](./smart-chain/validator/guideline.md)
 - [Develop wallets](./smart-chain/wallet/wallet_api.md) and tools to help users use Dapps
